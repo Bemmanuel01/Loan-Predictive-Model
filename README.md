@@ -24,10 +24,8 @@ The model's performance is assessed uses classsification reports:
   - F1 Score: The harmonic mean of precision and recall, providing a balanced view of model performance.
 
 # Implementation
-Once trained and validated, the model is deployed in a real-world environment where it:
-
-Predicts Loan Outcomes: Provides predictions for new loan applications, helping financial institutions make informed decisions.
-Integrates with Systems: Can be integrated with existing loan processing systems to automate and streamline the approval process.
+- Predicts Loan Outcomes: Provides predictions for new loan applications, helping financial institutions make informed decisions.
+- Integrates with Systems: Can be integrated with existing loan processing systems to automate and streamline the approval process.
 
 # Summary
 The Loan Predictive Model aims to provide financial institutions with a powerful tool to predict loan approvals with high accuracy. By leveraging machine learning techniques, the model helps in reducing the risk of loan defaults, improving decision-making efficiency, and enhancing the overall customer experience. The model's ability to analyze and predict outcomes based on historical data allows institutions to make data-driven decisions.
